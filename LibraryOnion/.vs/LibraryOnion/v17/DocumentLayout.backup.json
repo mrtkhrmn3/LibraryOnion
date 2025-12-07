@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mert\\source\\repos\\LibraryOnion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45450DC4-9CEF-4668-A769-055D35A96553}|Library.Application\\Library.Application.csproj|c:\\users\\mert\\source\\repos\\libraryonion\\library.application\\mappingprofiles\\applicationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45450DC4-9CEF-4668-A769-055D35A96553}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\mappingprofiles\\applicationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC6EFD3-AAF1-4012-A5F2-13223917A2F2}|Library.InnerInfrastructure\\Library.InnerInfrastructure.csproj|c:\\users\\mert\\source\\repos\\libraryonion\\library.innerinfrastructure\\dependencyresolvers\\managerresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC6EFD3-AAF1-4012-A5F2-13223917A2F2}|Library.InnerInfrastructure\\Library.InnerInfrastructure.csproj|solutionrelative:library.innerinfrastructure\\dependencyresolvers\\managerresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC6EFD3-AAF1-4012-A5F2-13223917A2F2}|Library.InnerInfrastructure\\Library.InnerInfrastructure.csproj|c:\\users\\mert\\source\\repos\\libraryonion\\library.innerinfrastructure\\managerconcretes\\basemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC6EFD3-AAF1-4012-A5F2-13223917A2F2}|Library.InnerInfrastructure\\Library.InnerInfrastructure.csproj|solutionrelative:library.innerinfrastructure\\managerconcretes\\basemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3FE53E-B4D1-482E-99D5-71CCBB604DDF}|Library.Presistence\\Library.Presistence.csproj|c:\\users\\mert\\source\\repos\\libraryonion\\library.presistence\\dependencyresolvers\\repositoryresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3FE53E-B4D1-482E-99D5-71CCBB604DDF}|Library.Presistence\\Library.Presistence.csproj|solutionrelative:library.presistence\\dependencyresolvers\\repositoryresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3FE53E-B4D1-482E-99D5-71CCBB604DDF}|Library.Presistence\\Library.Presistence.csproj|c:\\users\\mert\\source\\repos\\libraryonion\\library.presistence\\configurations\\baseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3FE53E-B4D1-482E-99D5-71CCBB604DDF}|Library.Presistence\\Library.Presistence.csproj|solutionrelative:library.presistence\\configurations\\baseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3FE53E-B4D1-482E-99D5-71CCBB604DDF}|Library.Presistence\\Library.Presistence.csproj|c:\\users\\mert\\source\\repos\\libraryonion\\library.presistence\\configurations\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3FE53E-B4D1-482E-99D5-71CCBB604DDF}|Library.Presistence\\Library.Presistence.csproj|solutionrelative:library.presistence\\configurations\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC88DCD-5E90-4AC7-8767-6D48CDE07FB3}|Library.WebApi\\Library.WebApi.csproj|c:\\users\\mert\\source\\repos\\libraryonion\\library.webapi\\mappingprofiles\\vmmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC88DCD-5E90-4AC7-8767-6D48CDE07FB3}|Library.WebApi\\Library.WebApi.csproj|solutionrelative:library.webapi\\mappingprofiles\\vmmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC88DCD-5E90-4AC7-8767-6D48CDE07FB3}|Library.WebApi\\Library.WebApi.csproj|c:\\users\\mert\\source\\repos\\libraryonion\\library.webapi\\requestmodels\\createbookrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC88DCD-5E90-4AC7-8767-6D48CDE07FB3}|Library.WebApi\\Library.WebApi.csproj|solutionrelative:library.webapi\\requestmodels\\createbookrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC88DCD-5E90-4AC7-8767-6D48CDE07FB3}|Library.WebApi\\Library.WebApi.csproj|c:\\users\\mert\\source\\repos\\libraryonion\\library.webapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC88DCD-5E90-4AC7-8767-6D48CDE07FB3}|Library.WebApi\\Library.WebApi.csproj|solutionrelative:library.webapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 300,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\LibraryOnion\\Library.Application\\MappingProfiles\\ApplicationMappingProfile.cs",
+              "RelativeDocumentMoniker": "Library.Application\\MappingProfiles\\ApplicationMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\LibraryOnion\\Library.Application\\MappingProfiles\\ApplicationMappingProfile.cs",
+              "RelativeToolTip": "Library.Application\\MappingProfiles\\ApplicationMappingProfile.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T11:41:55.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagerResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\LibraryOnion\\Library.InnerInfrastructure\\DependencyResolvers\\ManagerResolver.cs",
+              "RelativeDocumentMoniker": "Library.InnerInfrastructure\\DependencyResolvers\\ManagerResolver.cs",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\LibraryOnion\\Library.InnerInfrastructure\\DependencyResolvers\\ManagerResolver.cs",
+              "RelativeToolTip": "Library.InnerInfrastructure\\DependencyResolvers\\ManagerResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T11:41:49.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\LibraryOnion\\Library.InnerInfrastructure\\ManagerConcretes\\BaseManager.cs",
+              "RelativeDocumentMoniker": "Library.InnerInfrastructure\\ManagerConcretes\\BaseManager.cs",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\LibraryOnion\\Library.InnerInfrastructure\\ManagerConcretes\\BaseManager.cs",
+              "RelativeToolTip": "Library.InnerInfrastructure\\ManagerConcretes\\BaseManager.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T11:41:40.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\LibraryOnion\\Library.Presistence\\DependencyResolvers\\RepositoryResolver.cs",
+              "RelativeDocumentMoniker": "Library.Presistence\\DependencyResolvers\\RepositoryResolver.cs",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\LibraryOnion\\Library.Presistence\\DependencyResolvers\\RepositoryResolver.cs",
+              "RelativeToolTip": "Library.Presistence\\DependencyResolvers\\RepositoryResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T11:40:34.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\LibraryOnion\\Library.Presistence\\Configurations\\BaseConfiguration.cs",
+              "RelativeDocumentMoniker": "Library.Presistence\\Configurations\\BaseConfiguration.cs",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\LibraryOnion\\Library.Presistence\\Configurations\\BaseConfiguration.cs",
+              "RelativeToolTip": "Library.Presistence\\Configurations\\BaseConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T11:39:54.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\LibraryOnion\\Library.Presistence\\Configurations\\AuthorConfiguration.cs",
+              "RelativeDocumentMoniker": "Library.Presistence\\Configurations\\AuthorConfiguration.cs",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\LibraryOnion\\Library.Presistence\\Configurations\\AuthorConfiguration.cs",
+              "RelativeToolTip": "Library.Presistence\\Configurations\\AuthorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T11:39:49.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateBookRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\LibraryOnion\\Library.WebApi\\RequestModels\\CreateBookRequestModel.cs",
+              "RelativeDocumentMoniker": "Library.WebApi\\RequestModels\\CreateBookRequestModel.cs",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\LibraryOnion\\Library.WebApi\\RequestModels\\CreateBookRequestModel.cs",
+              "RelativeToolTip": "Library.WebApi\\RequestModels\\CreateBookRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T11:39:26.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\LibraryOnion\\Library.WebApi\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Library.WebApi\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\LibraryOnion\\Library.WebApi\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Library.WebApi\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T11:39:10.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VmMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\LibraryOnion\\Library.WebApi\\MappingProfiles\\VmMappingProfile.cs",
+              "RelativeDocumentMoniker": "Library.WebApi\\MappingProfiles\\VmMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\LibraryOnion\\Library.WebApi\\MappingProfiles\\VmMappingProfile.cs",
+              "RelativeToolTip": "Library.WebApi\\MappingProfiles\\VmMappingProfile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T11:29:01.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
